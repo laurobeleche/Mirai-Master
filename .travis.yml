@@ -1,6 +1,6 @@
 sudo: required
 dist: trusty
-
+#teste
 #workaround for https://github.com/travis-ci/travis-ci/issues/5227
 addons:
   hostname: mirai-tester
